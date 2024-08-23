@@ -1,0 +1,35 @@
+body{
+  background-color:FireBrick;
+}
+h1{
+  text-align:center;
+  color:White;
+}
+.animals{
+  width:500px;
+  border:3px dashed White;
+  background-color:Black;
+   float:left;
+  margin:2px;
+}
+.vivod{
+
+  color:black;
+
+ 
+}
+.final{
+  position:absolute;
+  left:260px;
+}
+.video{
+  float:left;
+}
+.knopka{
+  position:sticky;
+  bottom:10px;
+  background-color:Lime;
+  font-size:40px;
+  
+ 
+}
